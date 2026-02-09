@@ -53,9 +53,9 @@ Research-driven optimization of LSTMs to model gait dynamics for able-bodied and
 
 Managing and updating 300+ test cases for university programming courses to ensure reliable deployment for 100+ students. 
 
-Built to answer one question:  
+Trying to answer one question:  
 
-**How do you scale high-quality technical feedback for hundreds of students?** 
+**How do you scale and distribute high-quality technical feedback for hundreds of students?** 
 
 ---
 
