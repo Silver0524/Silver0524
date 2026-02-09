@@ -2,8 +2,6 @@
 
 **Data Science and Machine Learning | Honors Computer Science and Math @ University of Vermont**
 
-Check out the research lab I am part of: [Gait Neuromechanics and Rehabilitation Lab](https://site.uvm.edu/gnrl/)
-
 ---
 
 ### Tech Stack
@@ -31,7 +29,7 @@ A RESTful API that forecasts match outcomes with 75%+ accuracy using a dataset o
 * Multithreaded web scraping with Playwright and BeautifulSoup 
 * Asynchronous request handling with FastAPI and PostgreSQL 
 * Feature engineering of 60+ statistical metrics 
-* Predictive modeling using random forest and decision tree algorithms
+* Predictive modeling using random forest and decision tree classifiers
   
 ---
 
@@ -39,7 +37,7 @@ A RESTful API that forecasts match outcomes with 75%+ accuracy using a dataset o
 
 **Data-driven Modeling for Gait Rehabilitation** 
 
-Research-driven optimization of LSTMs to distinguish between able-bodied and post-stroke gait patterns. 
+Research-driven optimization of LSTMs to model gait dynamics for able-bodied and post-stroke gait. 
 
 **Data sources and methods**
 * LSTM modeling of joint coordination data 
