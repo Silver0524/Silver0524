@@ -1,6 +1,6 @@
 # Hey there, I'm Christian 👋 
 
-**Data Science and Machine Learning | Honors Computer Science @ University of Vermont**
+**Data Science and Machine Learning | Honors Computer Science and Math @ University of Vermont**
 
 Check out the research lab I am part of: [Gait Neuromechanics and Rehabilitation Lab](https://site.uvm.edu/gnrl/)
 
@@ -35,7 +35,7 @@ A RESTful API that forecasts match outcomes with 75%+ accuracy using a dataset o
   
 ---
 
-### Gait Signature Analysis
+### Gait Signature Analysis - Private
 
 **Data-driven Modeling for Gait Rehabilitation** 
 
@@ -49,7 +49,7 @@ Research-driven optimization of LSTMs to distinguish between able-bodied and pos
 
 ---
 
-### UVM Computer Science Grading Systems
+### UVM Computer Science Grading System - Private
 
 **Automated Grading Infrastructure** 
 
