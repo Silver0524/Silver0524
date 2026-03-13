@@ -1,65 +1,34 @@
-# Hey there, I'm Christian 👋 
+# Hi, I'm Christian 👋
 
-**Data Science and Machine Learning | Honors Computer Science and Math @ University of Vermont**
+**Honors Computer Science & Pure Math @ University of Vermont**
 
----
+**Gait Research @ [GNRL](https://site.uvm.edu/gnrl/)**
 
-### Tech Stack
-
-**AI / ML** \
-Random Forest, Feature Engineering, PCA, LSTMs, Regression, and Classification 
-
-**Backend** \
-FastAPI, PostgreSQL, SQLAlchemy, Docker, and pytest 
-
-**Data** \
-Pandas, NumPy, Matplotlib, seaborn
+**Data Science Intern @ JLG Industries**
 
 ---
 
-## Recent Projects
+### 🔬 Research & Technical Experience
 
-### MatPredict
+* **Gait Neuromechanics and Rehabilitation Lab**: Directing predictive modeling and stroke recovery data analysis to optimize personalized treatment plans. Presenting findings at the 2026 UVM Student Research Conference.
+* **UVM Software Developer**: Sole programmer for CS Department grading infrastructure; accelerated grading by 30% for 100+ students by expanding test coverage and real-time feedback.
+* **MatPredict**: Engineered a machine learning application achieving 75%+ accuracy predicting NCAA outcomes using a custom dataset of 400,000+ matches.
+* **JLG Industries Data Science**: Selected for Summer 2026 internship to use machine learning and programming skills to support Data Management, Systems Development, Business Analysis, Testing, and Project Management departments.
 
-**NCAA Division I Wrestling Match Predictor** 
+### 🎓 Academic Honors
 
-A RESTful API that forecasts match outcomes with 75%+ accuracy using a dataset of 400,000+ matches. 
+* **George V. Kidder Scholar**: Awarded to two students annually for excellence in academics and service.
+* **Presidential Scholar**: Highest institutional non-resident award with a **4.00/4.00** GPA.
 
-**Key features**
-* Multithreaded web scraping with Playwright and BeautifulSoup 
-* Asynchronous request handling with FastAPI and PostgreSQL 
-* Feature engineering of 60+ statistical metrics 
-* Predictive modeling using random forest and decision tree classifiers
-  
----
+### 🛠 Tech Stack
 
-### Gait Signature Analysis - Private
+* **Languages**: Python, SQL, R, Java, C++, C
+* **Tools**: PostgreSQL, Git, Docker, FastAPI, Linux CLI
 
-**Data-driven Modeling for Gait Rehabilitation** 
+### 🏋️‍♂️ Beyond the Code
 
-Research-driven optimization of LSTMs to model gait dynamics for able-bodied and post-stroke gait. 
-
-**Data sources and methods**
-* LSTM modeling of joint coordination data 
-* Principal Component Analysis (PCA) for interpretable gait signatures 
-* Nearest-neighbor analysis and vector-field visualization 
-* Comparative variance analysis of stroke survivor coordination 
+Powerlifting | Wrestling | Skiing
 
 ---
 
-### UVM Computer Science Grading System - Private
-
-**Automated Grading Infrastructure** 
-
-Managing and updating 300+ test cases for university programming courses to ensure reliable deployment for 100+ students. 
-
-Trying to answer one question:  
-
-**How do you scale and distribute high-quality technical feedback for hundreds of students?** 
-
----
-
-## Connect With Me
-
-- **Email:** [christianspaul72@gmail.com](mailto:christianspaul72@gmail.com)
-- **LinkedIn:** [Christian Paul](www.linkedin.com/in/christian-paul-cs) 
+**LinkedIn**: [Christian Paul](https://www.linkedin.com/in/christian-paul-cs) | **Email**: [christianspaul72@gmail.com](mailto:christianspaul72@gmail.com) 
