@@ -1,34 +1,37 @@
 # Hi, I'm Christian 👋
 
-**Honors Computer Science & Pure Math @ University of Vermont**
+**Computer Science (AI / ML) & Math @ Duke University**  
+*(Transferred from University of Vermont — GPA: 4.00/4.00)*
 
-**Gait Research @ [GNRL](https://site.uvm.edu/gnrl/)**
+**Undergraduate Research Lead @ [GNRL](https://site.uvm.edu/gnrl/)**  
 
 **Data Science Intern @ JLG Industries**
 
 ---
 
-### 🔬 Research & Technical Experience
+### 📈 Experience
 
-* **Gait Neuromechanics and Rehabilitation Lab**: Directing predictive modeling and stroke recovery data analysis to optimize personalized treatment plans. Presenting findings at the 2026 UVM Student Research Conference.
-* **UVM Software Developer**: Sole programmer for CS Department grading infrastructure; accelerated grading by 30% for 100+ students by expanding test coverage and real-time feedback.
-* **MatPredict**: Engineered a machine learning application achieving 75%+ accuracy predicting NCAA outcomes using a custom dataset of 400,000+ matches.
-* **JLG Industries Data Science**: Selected for Summer 2026 internship to use machine learning and programming skills to support Data Management, Systems Development, Business Analysis, Testing, and Project Management departments.
+* **JLG Industries (Data Science Intern)**: Engineered a Scikit-Learn classification model in Databricks/Spark SQL targeting $200k+ in annual reimbursements. Built an NLP pipeline with SBERT across 400k+ customer comments to boost precision by 12%, and automated warranty claim assembly in Power BI to save ~60 hours weekly.
+* **Gait Neuromechanics and Rehabilitation Lab**: Lead computational research modeling walking dynamics and post-stroke coordination discrepancies using HAVOK time-delay embeddings and LSTM networks in TensorFlow/Keras.
+* **Software Developer (UVM)**: Managed autograder infrastructure for 31 assignments; accelerated grading throughput by 30% for 100+ students by optimizing Docker containers and expanding JUnit/unittest coverage.
+* **MatPredict**: Engineered machine learning models predicting NCAA wrestling outcomes with 75%+ accuracy using a look-forward evaluation strategy. Built an automated web scraper to curate 400k+ records published on Kaggle (9.41 usability rating, 130+ downloads).
+* **DCA Backtester**: Built an event-driven backtesting engine in Python/Pandas/Plotly processing daily price bars sequentially to evaluate dynamic Dollar-Cost Averaging strategies.
 
-### 🎓 Academic Honors
+### 🎓 Academic Honors & Leadership
 
-* **George V. Kidder Scholar**: Awarded to two students annually for excellence in academics and service.
-* **Presidential Scholar**: Highest institutional non-resident award with a **4.00/4.00** GPA.
+* **George V. Kidder Scholar & Presidential Scholar**: Excellence in academics and service with a **4.00/4.00** GPA (Dean's List all semesters).
+* **UVM Powerlifting Team (Vice President)**: Secured $5,000 in funding from Student Government Association for travel and negotiated local gym partnerships cutting club training costs by 40%.
 
 ### 🛠 Tech Stack
 
 * **Languages**: Python, SQL, R, Java, C++, C
-* **Tools**: PostgreSQL, Git, Docker, FastAPI, Linux CLI
+* **Data Science & ML**: Scikit-Learn, TensorFlow, PyTorch, Keras, PySpark, Pandas, NumPy, SBERT, SciPy, Matplotlib
+* **Tools & Infrastructure**: Databricks, Microsoft Azure, Docker, Power BI, MLflow, FastAPI, SQLAlchemy, PostgreSQL, Git, pytest
 
 ### 🏋️‍♂️ Beyond the Code
 
-Powerlifting | Wrestling | Skiing
+Powerlifting | Applied AI/ML | Wrestling | Sports Analytics | Skiing
 
 ---
 
-**LinkedIn**: [Christian Paul](https://www.linkedin.com/in/christian-paul-cs) | **Email**: [christianspaul72@gmail.com](mailto:christianspaul72@gmail.com) 
+**LinkedIn**: [Christian Paul](https://www.linkedin.com/in/christian-paul-cs) | **Email**: [christian.paul@duke.edu](mailto:christian.paul@duke.edu)
